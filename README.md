@@ -25,7 +25,7 @@ Lees meer over hoe je vragen kunt stellen, bugs kunt melden en bij kunt dragen (
 
 ## API specificaties 
 
-Om de API-specificaties en aanvullende bedrijfsregels van de *standaard* te raadplegen, volg de relevante links in dit [overzicht]().
+
 
 ## Migratie
 
